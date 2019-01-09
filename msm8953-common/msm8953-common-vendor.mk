@@ -80,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8953-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/xiaomi/msm8953-common/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
 	vendor/xiaomi/msm8953-common/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
-    vendor/xiaomi/msm8953-common/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/xiaomi/msm8953-common/proprietary/vendor/bin/tftp_server:system/vendor/bin/tftp_server \
     vendor/xiaomi/msm8953-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/msm8953-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
